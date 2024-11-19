@@ -1,5 +1,5 @@
 Carysil-PBI
-We Are Looking For Dashboard where we can check our Financial Performance and various financial metrics to judge our business
+We Are Looking For Dashboard where we can check our Financial Performance and various financial metrics to judge our business.
 
 Power Bi Report For carysil Project : <a href "https://github.com/shiprashrivastava/carysil/blob/main/shipra.pbix"
 Data : <a href "https://github.com/shiprashrivastava/carysil/blob/main/Copy%20of%20Formula%20For%20Dim1.xlsx"
